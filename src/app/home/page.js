@@ -1,8 +1,9 @@
+import CustomCard from "@/utilities/commoncomponents/Cards"
 
 const page = () => {
   return (
     <div>
-      im home
+        <CustomCard/>
     </div>
   )
 }
